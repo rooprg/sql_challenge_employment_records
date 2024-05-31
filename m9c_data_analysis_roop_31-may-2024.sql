@@ -27,7 +27,6 @@ INNER JOIN departments as d ON
 dm.dept_no = d.dept_no
 ORDER BY dm.dept_no;
 
-
 -- Create a list with the department number for each employee along with that employee’s employee number, last name, first name, and department name
 SELECT e.emp_no,
  e.first_name,
