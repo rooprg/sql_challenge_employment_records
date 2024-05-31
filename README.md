@@ -7,10 +7,11 @@ Requirements:
 (1) Data Modeling - posted Entity Relationship Diagram as .png file titled "Module_9_ERD_Roop"
 
 
-(2) Data Engineering - posted as .sql file titled "m9c_table_build_sql_roop_31-may-2024"
+(2) Data Engineering - table schemata posted as .sql file titled "m9c_table_build_sql_roop_31-may-2024"
 
 
-(3) Data Analysis - posted as .sql file titled " m9c_data_analysis_roop_31-may-2024"
+(3) Data Analysis - queries posted as .sql file titled " m9c_data_analysis_roop_31-may-2024"
+
 
 
 
