@@ -55,34 +55,42 @@ The following visualization and tables were generated for this exercise-
 
 
 (b) List with employee number, last name, first name, sex, and salary:
+
 ![Table1](Tables/1_empno_lastname_firstname_sex_salary.png)
 
 
 (c) List with the first name, last name, and hire date for the employees who were hired in 1986:
+
 ![Table2](Tables/2_firstname_lastname_hiredate_1986.png)
 
 
 (d) List with the manager of each department along with their department number, department name, employee number, last name, and first name:
+
 ![Table3](Tables/3_manager_deptno_deptname_empno_lastname_firstname.png)
 
 
 (e) List with the department number for each employee along with that employee’s employee number, last name, first name, and department name:
+
 ![Table4](Tables/4_empno_firstname_lastname_deptname_deptno.png)
 
 
 (f) List with first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B:
-![Table5](Tables/5_firstname_last name_sex_firstname_hercules_lastname_b.png)
+
+![Table5](Tables/5_full.png)
 
 
 (g) List with each employee in the Sales department, including their employee number, last name, and first name:
+
 ![Table6](Tables/6_empno_firstname_lastname_deptname.png)
 
 
 (h) List with each employee in the Sales and Development departments, including their employee number, last name, first name, and department name:
+
 ![Table7](Tables/7_empno_firstname_lastname_deptname.png)
 
 
 (i) List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name):
+
 ![Table8](Tables/8_lastname_firstname.png)
 
 
