@@ -41,7 +41,7 @@ Table schema were created for each of the six .csv files (including adding any p
 
 An Entity Relationship Diagram [ERD] was generated based on the information found in the 6 tables using QuickDBD [https://www.quickdatabasediagrams.com/].
 
-
+Tables were generated, but for display purposes, only show the first several rows.
 
 
 **(5) Results and Analysis:**
@@ -96,12 +96,22 @@ The following visualization and tables were generated for this exercise-
 
 **(6) Ethical Considerations:**
 
-(Discuss any ethical considerations taken into account during the project, such as data privacy, bias, or fairness)
+The files contain sensitive information (i.e., date of birth) that could be used in combination with first and last name to be problematic (e.g., identify theft). This information should be stored securely.
+
+Other information (i.e., salary) is sensitive as well
+
+Dissemination of this information should be minimized and limited to only those that have corporate approval to use; analyze; and/or store the sensitive data.
 
 
 **(7) Instructions for Interacting with the Project:**
 
-(Provide clear instructions on how to interact with the visualizations, such as how to run the code or access the visualizations)
+Code is located in two files within the Main folder, namely "m9c_table_build_sql_roop_31-may-2024.sql" and "m9c_data_analysis_roop_31-may-2024.sql".
+
+The ERD is located in the Main folder as "Module_9_ERD_Roop.png".
+
+The .csv files are located in the **Employee_SQL** folder.
+
+The example tables are located in the **Tables** folder.
 
 
 **(8) Citations:**
