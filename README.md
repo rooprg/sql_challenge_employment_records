@@ -119,10 +119,10 @@ The example tables are located in the **Tables** folder.
 Several questions asked of Xpert Learning Assistant on the following topics:
 
 
-(1) syntax checks on code written by student
+(a) syntax checks on code written by student
 
 
-(2) advice on correctly saving and retrieving .sql files
+(b) advice on correctly saving and retrieving .sql files
 
 
-(3) how to find dates from a list within a certain range of dates instead of AND or less than (<) / greater than (>) attempts
+(c) how to find dates from a list within a certain range of dates instead of AND or less than (<) / greater than (>) attempts
